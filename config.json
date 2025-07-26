@@ -16,14 +16,15 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "🌶️𝐁𝐚𝐬𝐚𝐧𝐭𝐢 𝐭𝐞𝐫𝐢 𝐦𝐚𝐮𝐭🌶️",
+    "BOTNAME": "heerrathore",
     "PREFIX": ".",
     "ADMINBOT": [
-        "61572631161102"
+        "61565513863952"
         
     ],
     "NDH": [
-        "61572631161102"
+        "61565513863952
+        "
     ],
     "DATABASE": {
         "sqlite": {
